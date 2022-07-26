@@ -1,0 +1,14 @@
+/* references to a "id" title given in the source Doc.*/
+#id{
+
+}
+
+/* references to a "class" title given in the source Doc. */
+.class{
+
+}
+
+/* to reference any major group, type the name plain because it is not a class or an id */
+body{
+
+}
